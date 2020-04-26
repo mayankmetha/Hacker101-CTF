@@ -6,6 +6,7 @@
 |Easy (2 / flag)|Micro-CMS v1|Web|4 / 4|
 |Moderate (3 / flag)|Micro-CMS v2|Web|3 / 3|
 |Easy (4 / flag)|Postbook|Web|7 / 7|
+|Moderate (5 / flag)|TempImage|Web|2 / 2|
 |Easy (2 / flag)|BugDB v1|Web, GraphQL|1 / 1|
 |Easy (4 / flag)|BugDB v2|Web, GraphQL|1 / 1|
 |Moderate (6 / flag)|BugDB v3|Web, GraphQL|1 / 1|
