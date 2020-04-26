@@ -9,6 +9,6 @@
 |Easy (2 / flag)|BugDB v1|Web, GraphQL|1 / 1|
 |Easy (4 / flag)|BugDB v2|Web, GraphQL|1 / 1|
 |Moderate (6 / flag)|BugDB v3|Web, GraphQL|1 / 1|
-|Hard (9 / flag)|Encrypted Pastebin|Web, Crypto|1 / 4|
+|Hard (9 / flag)|Encrypted Pastebin|Web, Crypto|2 / 4|
 |Hard (7 / flag)|Model E1337 - Rolling Code Lock|Web, Math|1 / 2|
 |Expert (13 / flag)|Model E1337 v2 - Hardened Rolling Code Lock|Math|0 / 1|
