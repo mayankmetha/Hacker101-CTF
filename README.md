@@ -22,6 +22,8 @@
 |Hard (9 / flag)|Encrypted Pastebin|Web, Crypto|2 / 4|
 |Hard (7 / flag)|Model E1337 - Rolling Code Lock|Web, Math|1 / 2|
 |Expert (13 / flag)|Model E1337 v2 - Hardened Rolling Code Lock|Math|0 / 1|
+|Expert (9 / flag)|Rend Asunder|Native|1 / 3|
+
 
 ## Todo Task
 
@@ -32,6 +34,5 @@
 |Moderate (5 / flag)|Ticketastic: Live Instance|Web|0 / 2|
 |Easy (2 / flag)	|H1 Thermostat|Android|0 / 2|
 |Moderate (3 / flag)|Intentional Exercise|Android|0 / 1|
-|Expert (9 / flag)|Rend Asunder|Native|0 / 3|
 |Moderate (4 / flag)|Oauthbreaker|Android|0 / 2|
 |Moderate (4 / flag)|Mobile Webdev|Android|0 / 2|
