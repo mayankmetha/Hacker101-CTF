@@ -11,6 +11,8 @@
 |Easy (4 / flag)|Postbook|Web|7 / 7|
 |Easy (3 / flag)|Petshop Pro|Web|3 / 3|
 |Moderate (5 / flag)|TempImage|Web|2 / 2|
+|Moderate (6 / flag)|Photo Gallery|Web|3 / 3|
+|Moderate (5 / flag)|Cody's First Blog|Web|3 / 3|
 |Easy (2 / flag)|BugDB v1|Web, GraphQL|1 / 1|
 |Easy (4 / flag)|BugDB v2|Web, GraphQL|1 / 1|
 |Moderate (6 / flag)|BugDB v3|Web, GraphQL|1 / 1|
@@ -30,8 +32,6 @@
 
 |Difficulty (Points)|Name|Skills|Completion|
 |:---:|:---:|:---:|:---:|
-|Moderate (6 / flag)|Photo Gallery|Web|0 / 3|
-|Moderate (5 / flag)|Cody's First Blog|Web|0 / 3|
 |Easy (2 / flag)	|H1 Thermostat|Android|0 / 2|
 |Moderate (3 / flag)|Intentional Exercise|Android|0 / 1|
 |Moderate (4 / flag)|Oauthbreaker|Android|0 / 2|
