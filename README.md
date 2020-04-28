@@ -4,6 +4,7 @@
 |Difficulty (Points)|Name|Skills|Completion|
 |:---:|:---:|:---:|:---:|
 |Moderate (0 / flag)|Ticketastic: Demo Instance|Web|0 / 0|
+|Moderate (5 / flag)|Ticketastic: Live Instance|Web|2 / 2|
 |Trivial (1 / flag)|A little something to get you started|Web|1 / 1|
 |Easy (2 / flag)|Micro-CMS v1|Web|4 / 4|
 |Moderate (3 / flag)|Micro-CMS v2|Web|3 / 3|
@@ -31,7 +32,6 @@
 |:---:|:---:|:---:|:---:|
 |Moderate (6 / flag)|Photo Gallery|Web|0 / 3|
 |Moderate (5 / flag)|Cody's First Blog|Web|0 / 3|
-|Moderate (5 / flag)|Ticketastic: Live Instance|Web|0 / 2|
 |Easy (2 / flag)	|H1 Thermostat|Android|0 / 2|
 |Moderate (3 / flag)|Intentional Exercise|Android|0 / 1|
 |Moderate (4 / flag)|Oauthbreaker|Android|0 / 2|
