@@ -16,6 +16,7 @@
 |Easy (2 / flag)|BugDB v1|Web, GraphQL|1 / 1|
 |Easy (4 / flag)|BugDB v2|Web, GraphQL|1 / 1|
 |Moderate (6 / flag)|BugDB v3|Web, GraphQL|1 / 1|
+|Easy (2 / flag)	|H1 Thermostat|Android|2 / 2|
 |Moderate (4 / flag)|Hello World!|Native|1 / 1|
 
 ## Pending Task
@@ -32,7 +33,6 @@
 
 |Difficulty (Points)|Name|Skills|Completion|
 |:---:|:---:|:---:|:---:|
-|Easy (2 / flag)	|H1 Thermostat|Android|0 / 2|
 |Moderate (3 / flag)|Intentional Exercise|Android|0 / 1|
 |Moderate (4 / flag)|Oauthbreaker|Android|0 / 2|
 |Moderate (4 / flag)|Mobile Webdev|Android|0 / 2|
